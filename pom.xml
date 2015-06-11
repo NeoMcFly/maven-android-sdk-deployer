@@ -288,6 +288,8 @@
             <modules>
                 <module>platforms</module>
                 <module>add-ons</module>
+                <module>repositories</module>
+                <module>extras</module>
             </modules>
         </profile>
 		<profile>
