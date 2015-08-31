@@ -296,7 +296,9 @@
             <id>6.0</id>
             <modules>
                 <module>platforms</module>
-				<module>add-ons</module>
+                <module>add-ons</module>
+                <module>repositories</module>
+                <module>extras</module>
             </modules>
         </profile>
     </profiles>
